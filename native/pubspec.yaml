@@ -10,13 +10,13 @@ dependencies:
   audioplayers: ^6.8.1
   crypto: ^3.0.6
   cryptography: ^2.9.0
-  desktop_webview_window: ^0.4.2
+  desktop_webview_window: ^0.4.3
   file_picker: ^13.3.0
   flutter:
     sdk: flutter
   # 23.x needs compileSdk 37, which the current Android Gradle plugin does not support.
   flutter_local_notifications: ^22.3.3
-  google_mlkit_text_recognition: ^1.0.1
+  google_mlkit_text_recognition: ^1.0.3
   html: ^0.15.6
   http: ^1.6.0
   intl: ^0.20.3
